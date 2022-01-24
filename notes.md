@@ -1,5 +1,4 @@
-# Data Analytics 
-## Term and Definition
+# Term and Definition
 
 ### Data Analysis
 > Data analysis is a process of inspecting, cleansing, transforming, and
